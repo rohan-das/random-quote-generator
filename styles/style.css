@@ -1,0 +1,51 @@
+body{
+	margin-top: 5%;
+	background-color: black;
+	background-image: url(https://static.pexels.com/photos/696407/pexels-photo-696407.jpeg);
+	background-position: center;
+	background-attachment:fixed;
+	background-size: cover; 
+	width: 100%;
+	height: 100%;
+  	
+}
+
+h1{
+	font-size: 50px;
+	color: white;
+	font-family: "Times New Roman";
+}
+
+p{
+	font-size: 30px;
+	color: white;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+
+.quotes{
+	background-color: transparent;
+	width: 45%;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+	padding: 8px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 30px;
+  	font-family: 'Marck Script', cursive;
+	
+}
+
+.new-quote-button{
+	background-color: black;
+	color: white;
+	border-color: white;
+	font-family: "Times New Roman"; 
+}
+
+.tweet-button{
+	background-color: black;
+	color: white;
+	border-color: white; 
+}
